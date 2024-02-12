@@ -1,12 +1,12 @@
-<h1 align="center">Hi, I'm Ceymikey⭐</h1>
+<h1 align="center">Hi, I'm 58TechBoy⭐</h1>
 <h3 align="center">Welcome to my Github page</h3>
 
 <p>
-  <a href="https://github.com/Ceymikey"><img src="https://komarev.com/ghpvc/?username=ceymikey&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /></a>
-  <a href="https://www.npmjs.com/package/discord.js"><img src="https://img.shields.io/badge/Most experience-Javascript-yellow" alt="main language" /></a>
+  <a href="https://github.com/58TechBoy"><img src="https://komarev.com/ghpvc/?username=58techboy&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /></a>
+  <a href="https://www.npmjs.com/package/discord.js"><img src="https://img.shields.io/badge/Most%20experience-Javascript-yellow" alt="main language" /></a>
 </p>
 
-<p>Hi, I am Ceymikey, a student from the Europe willing to learn various things. My interests include game development, building full-stack web apps, creating Discord bots, and much more. I also develop and manage Minecraft servers, mainly focusing on gameplay and quality. If you need assistance with your servers, feel free to DM me (ceymikey#0) or join my Discord.</p>
+<p>Hi, I am 58TechBoy, a student from Europe eager to learn various things. My interests include game development, building full-stack web apps, creating Discord bots, and much more. I also develop and manage Minecraft servers, mainly focusing on gameplay and quality. If you need assistance with your servers, feel free to DM me (58TechBoy#0) or join my Discord.</p>
 
 <h3 align="left">My Socials:</h3>
 <p align="left">
@@ -36,16 +36,16 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" /></a>
   <a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40" /></a>
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40" /></a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" /></a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" /></a>
 </p>
 
 <table>
   <tr>
-    <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api?username=ceymikey&show_icons=true&theme=default&count_private=true&hide_border=true&icon_color=41B883&title_color=41B883&text_color=34495E&bg_color=00000000" />
+    <td align="center" style="padding: 0; width: 50%;">
+      <img align="center" style="padding: 0;" src="https://github-readme-stats.vercel.app/api?username=58techboy&show_icons=true&theme=default&count_private=true&hide_border=true&icon_color=41B883&title_color=41B883&text_color=34495E&bg_color=00000000" />
     </td>
-    <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceymikey&hide=html,stata,tex,jupyter%20notebook&layout=compact&hide_border=true&icon_color=41B883&title_color=41B883&text_color=34495E&bg_color=00000000" />
+    <td align="center" style="padding: 0; width: 50%;">
+      <img align="center" style="padding: 0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=58techboy&hide=html,stata,tex,jupyter%20notebook&layout=compact&hide_border=true&icon_color=41B883&title_color=41B883&text_color=34495E&bg_color=00000000" />
     </td>
   </tr>
 </table>

@@ -1,7 +1,17 @@
 Hi there 👋 
 I am Jaeden, the CEO of BreezeNodes, I know GoLang, NextJS, Java, Linux and more...
 
-[![Jaeden's GitHub stats](https://github-readme-stats.vercel.app/api?username=58TechBoy)](https://github.com/58TechBoy/github-readme-stats)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=58TechBoy&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=58TechBoy&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=58TechBoy&show_icons=true" />
+</picture>
 ## socials:
 [![Discord](https://img.shields.io/badge/Jaeden-%235C6AE2?style=for-the-badge&logo=discord&logoColor=fff&labelColor=%235C6AE2)](https://discord.gg/nCEzAnD4)
 

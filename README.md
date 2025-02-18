@@ -1,6 +1,7 @@
 Hi there 👋 
 I am Jaeden, the CEO of BreezeNodes, I know GoLang, NextJS, Java, Linux and more...
 
+This is inaccurate for some reason...
 <picture>
   <source
     srcset="https://gitstat.58techboy.co.uk/?username=58TechBoy&show_icons=true&theme=dark"

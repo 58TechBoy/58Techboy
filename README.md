@@ -2,7 +2,7 @@ Hi there 👋
 I am Jaeden, the CEO of BreezeNodes, I know GoLang, NextJS, Java, Linux and more...
 
 <picture>
-<img src="https://gitstat.58techboy.co.uk/?username=58TechBoy&show_icons=true&nocache=${new Date().getTime()}" />
+<img src="https://gitstat.58techboy.co.uk/?username=58TechBoy&show_icons=true&theme=dark" />
 </picture>
 
 # socials:

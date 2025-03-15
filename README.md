@@ -16,7 +16,7 @@ This is inaccurate because of GitHub's img caching system...
 </picture>
 
 # socials:
-[![Discord](https://img.shields.io/badge/Jaeden-%235C6AE2?style=for-the-badge&logo=discord&logoColor=fff&labelColor=%235C6AE2)](https://discord.gg/nCEzAnD4)
+[![Discord](https://img.shields.io/badge/Jaeden-%235C6AE2?style=for-the-badge&logo=discord&logoColor=fff&labelColor=%235C6AE2)](https://discord.com/users/1145004702724005969)
 
 ## work:
 [![BreezeNodes](https://img.shields.io/badge/BreezeNodes-black?style=for-the-badge&logo=discord&logoColor=fff&labelColor=%230e0e9d&color=%230e0e9d)](https://breezenodes.com)
